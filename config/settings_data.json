@@ -1,8 +1,8 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/LOGO_WEB.webp",
+    "logo": "shopify:\/\/shop_images\/logo-negro.webp",
     "logo_width": 200,
-    "favicon": "shopify:\/\/shop_images\/WhatsApp_Image_2021-04-15_at_16.49.53.jpg",
+    "favicon": "shopify:\/\/shop_images\/favicon.jpg",
     "type_header_font": "montserrat_n4",
     "heading_scale": 100,
     "type_body_font": "montserrat_n4",
@@ -136,27 +136,6 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "3162008616520556380": {
-        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-        "disabled": false,
-        "settings": {
-          "rrPartnerId": "659535f486274315dbabf620"
-        }
-      },
-      "13699062826762247329": {
-        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/tracking-codes\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-        "disabled": false,
-        "settings": {
-          "rrExitIntentBar": "659548fd9b15095e98a658f9",
-          "ignoredCollections": [
-
-          ],
-          "tagstosend": "",
-          "metafieldtosend": ""
-        }
-      }
-    },
     "color_schemes": {
       "background-1": {
         "settings": {
