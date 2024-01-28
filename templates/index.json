@@ -217,7 +217,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cuotas.jpg",
-            "title": "Hasta 6 cuotas",
+            "title": "<strong>Hasta 6 cuotas<\/strong>",
             "text": "<p>Sin interés<\/p><p><\/p>",
             "link_label": "",
             "link": ""
@@ -226,8 +226,9 @@
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
           "type": "column",
           "settings": {
-            "title": "Compra hasta 6 coutas sin interes",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/cambios.jpg",
+            "title": "<strong>Cambios y devoluciones<\/strong>",
+            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
             "link_label": "",
             "link": ""
           }
