@@ -229,6 +229,60 @@
         "padding_top": 16,
         "padding_bottom": 20
       }
+    },
+    "slideshow_xweMJg": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_4P4qyw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_mochilas_2880x1200_2ebffa69-ccdb-4809-8d13-6b53fefa99c4.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_hNVPBm": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_4P4qyw",
+        "slide_hNVPBm"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -237,6 +291,7 @@
     "slideshow_xLgkgH",
     "241f4691-2553-4f6e-bc31-ad64aa132e6b",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
-    "406a65c7-d10a-4160-a30c-634059fa1435"
+    "406a65c7-d10a-4160-a30c-634059fa1435",
+    "slideshow_xweMJg"
   ]
 }
