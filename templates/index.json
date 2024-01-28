@@ -207,7 +207,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/despacho.jpg",
-            "title": "Despacho a domicilio",
+            "title": "<strong>Despacho a domicilio<\/strong>",
             "text": "<p>A todo Chile entregas 3-5 días hábiles<\/p>",
             "link_label": "",
             "link": ""
