@@ -232,12 +232,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_nJVPzH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/seguimiento.jpg",
+            "title": "<strong>Sigue tu compra<\/strong>",
+            "text": "<p>Revisa aquí<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1",
         "5d62f929-a455-4369-b59a-d72d1f33b2a1",
-        "7f41631c-b9a8-4930-b18f-ab768cd27ca3"
+        "7f41631c-b9a8-4930-b18f-ab768cd27ca3",
+        "column_nJVPzH"
       ],
       "custom_css": [
         ".multicolumn {background: #f5f5f5;}",
