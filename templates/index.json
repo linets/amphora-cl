@@ -6,7 +6,7 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mochilas_desktop_12.jpg",
+            "image": "shopify:\/\/shop_images\/banner_web_8.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -24,7 +24,7 @@
         "40d36210-86aa-4bbd-bbc6-78998c425c99": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bandoleras_desktop_7.jpg",
+            "image": "shopify:\/\/shop_images\/BANNER-PROMO-JOYAS_Web.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -58,7 +58,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>ADELANTA TUS COMPRAS DE NAVIDAD<\/strong>",
+        "title": "Shop by Category",
         "heading_size": "h2",
         "align_title": "center",
         "description": "",
@@ -90,7 +90,6 @@
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CAJA-2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -100,7 +99,6 @@
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CAJA-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -110,7 +108,6 @@
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CAJA-2_3bc3045a-33fa-4ce5-974c-a4a88f921940.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -144,54 +141,18 @@
     },
     "17049857032c5ebfc6": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_9d6n4Y": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "659548da9b15095e98a658f2",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_9d6n4Y"
-      ],
       "settings": {
         "include_margins": true
       }
     },
     "17049865837c762c30": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_E9pptQ": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "659550249b15095e98a65945",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_E9pptQ"
-      ],
       "settings": {
         "include_margins": true
       }
     },
     "170498672219347873": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_V9T4EP": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "659550384d342b6d85f8bbcb",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_V9T4EP"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -202,7 +163,6 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/74ab1135-7a1e-495e-9821-c1b9da19c9c9-p-45423388457-1-8c7b9caa-83fa-4370-95b8-8c429c918f98.jpg",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -212,7 +172,6 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-transparent-diaper-bags-handbag-macy-s-leather-bag.png",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -222,7 +181,6 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-transparent-diaper-bags-handbag-macy-s-leather-bag.png",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -232,7 +190,6 @@
         "e5f2d0c4-f397-441d-8e8e-e8be220ca745": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-transparent-diaper-bags-handbag-macy-s-leather-bag.png",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -242,7 +199,6 @@
         "5da61721-6766-41fb-bb07-2a65464d7801": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-transparent-diaper-bags-handbag-macy-s-leather-bag.png",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -252,7 +208,6 @@
         "9530b128-0e96-45fc-8d42-c21b286760c1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/png-transparent-diaper-bags-handbag-macy-s-leather-bag.png",
             "title": "Bandolera Selene",
             "text": "",
             "link_label": "",
@@ -296,7 +251,6 @@
         ".banner--content-align-mobile-center {margin-top: 50px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/metalicos_desktop.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -330,7 +284,6 @@
         "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1456900.png",
             "title": "Envíos gratis por compras sobre $49.900 en regiones de Atacama a Los Lagos",
             "text": "",
             "link_label": "",
@@ -340,7 +293,6 @@
         "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7199880.png",
             "title": "Cambio y devoluciones sin costo",
             "text": "<p><\/p><p><\/p>",
             "link_label": "",
@@ -350,7 +302,6 @@
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8897944.png",
             "title": "Compra hasta 6 coutas sin interes",
             "text": "",
             "link_label": "",
