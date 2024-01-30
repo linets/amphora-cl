@@ -101,10 +101,10 @@
     "brand_headline": "",
     "brand_description": "<p><\/p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/ziol.chile\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/ziolstore\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCPZzSQgSCB9UyxRjF7ngPQg",
-    "social_tiktok_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/amphora.chile",
+    "social_instagram_link": "https:\/\/www.instagram.com\/amphora.chile\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCMmOgxmsiCQ1hrfc-4tCtSw",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@amphora.oficial",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -139,9 +139,21 @@
     "blocks": {
       "3162008616520556380": {
         "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "rrPartnerId": "65b7b6ff605863533c8cf2e4"
+        }
+      },
+      "13699062826762247329": {
+        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/tracking-codes\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+        "disabled": true,
+        "settings": {
+          "rrExitIntentBar": "",
+          "ignoredCollections": [
+
+          ],
+          "tagstosend": "",
+          "metafieldtosend": ""
         }
       }
     },
