@@ -255,7 +255,7 @@
         ".multicolumn-card-spacing {width: 60px; height: 60px;}"
       ],
       "settings": {
-        "force_full_width": false,
+        "force_full_width": true,
         "title": "",
         "heading_size": "h2",
         "image_width": "half",
