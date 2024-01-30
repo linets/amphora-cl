@@ -3637,6 +3637,10 @@ details-disclosure>details {
   margin: 50px auto
 }
 
+sticky-header>.header {
+  padding-top: 0 !important;
+}
+
 .full-screen-custom-video iframe {
   position: absolute;
   top: 0;
