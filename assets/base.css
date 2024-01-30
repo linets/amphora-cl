@@ -5,6 +5,10 @@
   --alpha-badge-border: 0.1;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .product-card-wrapper .card,
 .contains-card--product {
   --border-radius: var(--product-card-corner-radius);
@@ -2905,6 +2909,10 @@ details[open]>.header__menu-item .icon-caret {
   align-items: center;
 }
 
+.list-social__item .icon path {
+  fill: #c7af8c;
+}
+
 .header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.2rem;
 }
@@ -3623,7 +3631,7 @@ details-disclosure>details {
 }
 
 .full-screen-custom-video {
-  width: 97vw;
+  width: 99vw;
   position: relative;
   padding-bottom: 56.25%;
   margin: 50px auto
