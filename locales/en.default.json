@@ -508,5 +508,16 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "company_label": "RUT",
+        "optional_company_label": "RUT"
+      },
+      "field_errors": {
+        "address_company_blank": "Introduce un número de RUT"
+      }
+    }
   }
 }
