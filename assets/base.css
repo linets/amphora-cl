@@ -3655,6 +3655,23 @@ sticky-header>.header {
   font-weight: 300;
 }
 
+.product-form__submit {
+  border: solid 1px #000;
+}
+
+.product-form__submit:hover {
+  border: solid 1px #c7af8c !important;
+  background: #c7af8c !important;
+}
+
+.quantity__button:hover {
+  background: #c7af8c !important;
+}
+
+.product-form__submit::after {
+  display: none !important
+}
+
 @media (max-width: 768px) {
   .collection__title .title {
     font-size: 20px;
