@@ -99,7 +99,7 @@
         "gallery_layout": "thumbnail_slider",
         "orientation_thumbnail": "left",
         "media_position": "left",
-        "image_zoom": "hover",
+        "image_zoom": "none",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
