@@ -2835,6 +2835,11 @@ details[open]>.header__submenu {
   padding-bottom: 22px;
 }
 
+.header__menu-item a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
