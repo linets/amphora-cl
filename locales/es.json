@@ -526,7 +526,20 @@
       "contact": {
         "company_label": "RUT",
         "optional_company_label": "RUT",
-        "city_label": "Comuna"
+        "city_label": "Comuna",
+        "zip_code_label": "Número de casa",
+        "zip_code_placeholder": "Número de casa",
+        "postal_code_label": "Número de casa",
+        "postal_code_placeholder": "Número de casa",
+        "postcode_label": "Número de casa",
+        "postcode_placeholder": "Número de casa",
+        "address2_label": "Detalles adicionales",
+        "optional_address2_label": "Detalles adicionales"
+      },
+      "field_errors": {
+        "address_company_blank": "Introduce un número de RUT",
+        "address_city_blank": "Introduce una comuna",
+        "address_zip_blank": "Introduce un número de casa"
       }
     }
   }
