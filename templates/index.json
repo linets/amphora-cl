@@ -293,8 +293,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/despacho.jpg",
-            "title": "Envíos gratis por compras sobre $49.900 en regiones de Atacama a Los Lagos",
-            "text": "",
+            "title": "<strong>Despacho a domicilio<\/strong>",
+            "text": "<p>A todo Chile entregas 3-5 días hábiles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -303,8 +303,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cambios.jpg",
-            "title": "Cambio y devoluciones sin costo",
-            "text": "<p><\/p><p><\/p>",
+            "title": "<strong>Cambios y devoluciones<\/strong>",
+            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -313,8 +313,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cuotas.jpg",
-            "title": "Compra hasta 6 coutas sin interes",
-            "text": "",
+            "title": "<strong>Compra hasta 6 coutas <\/strong>",
+            "text": "<p>sin interes<\/p>",
             "link_label": "",
             "link": ""
           }
