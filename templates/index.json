@@ -21,28 +21,10 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "40d36210-86aa-4bbd-bbc6-78998c425c99": {
-          "type": "slide",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3",
-        "40d36210-86aa-4bbd-bbc6-78998c425c99"
+        "6565bc0f-3939-488b-909e-7616f7e59da3"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -199,7 +181,8 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
+            "image": "shopify:\/\/shop_images\/Dos-asas_4.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -208,7 +191,8 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
+            "image": "shopify:\/\/shop_images\/Bandoleras-mobile.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -217,34 +201,8 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e5f2d0c4-f397-441d-8e8e-e8be220ca745": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "5da61721-6766-41fb-bb07-2a65464d7801": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9530b128-0e96-45fc-8d42-c21b286760c1": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
+            "image": "shopify:\/\/shop_images\/Mochilas_9.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -254,10 +212,7 @@
       "block_order": [
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1",
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3",
-        "e5f2d0c4-f397-441d-8e8e-e8be220ca745",
-        "5da61721-6766-41fb-bb07-2a65464d7801",
-        "9530b128-0e96-45fc-8d42-c21b286760c1"
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3"
       ],
       "custom_css": [
         ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
@@ -268,9 +223,9 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
