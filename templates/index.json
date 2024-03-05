@@ -326,7 +326,7 @@
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3"
       ],
       "custom_css": [
-        ".media > *:not(.zoom):not(.deferred-media__poster-button) {width: 60px; height: 60px;}",
+        ".media > *:not(.zoom):not(.deferred-media__poster-button) {width: 60px; height: 60px; margin: 56px 26px;}",
         ".multicolumn-card-spacing {width: 135px; height: 135px;}"
       ],
       "settings": {
