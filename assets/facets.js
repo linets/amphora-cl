@@ -375,6 +375,7 @@ customElements.define('price-range', PriceRange);
 
 class FacetRemove extends HTMLElement {
   constructor() {
+    this.onCheckColorsHandler(event);
     super();
     const facetLink = this.querySelector('a');
     facetLink.setAttribute('role', 'button');
