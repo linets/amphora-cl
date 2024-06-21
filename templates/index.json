@@ -318,7 +318,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/cambios.jpg",
             "title": "<strong>Cambios y devoluciones<\/strong>",
-            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
+            "text": "<p>¿Dudas sobre tu elección? <\/p><p>Devuelve sin costo<\/p>",
             "link_label": "",
             "link": ""
           }
