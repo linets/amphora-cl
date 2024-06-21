@@ -211,30 +211,30 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dosasas_web.jpg",
-            "title": "",
+            "title": "Dos Asas",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/carteras-dos-asas"
           }
         },
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/bandoleras_web.jpg",
-            "title": "",
+            "title": "Bandoleras",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/carteras-bandoleras"
           }
         },
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Mochilas_Web.jpg",
-            "title": "",
+            "title": "Mochilas",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/mochila"
           }
         }
       },
@@ -308,7 +308,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/despacho.jpg",
             "title": "<strong>Despacho a domicilio<\/strong>",
-            "text": "<p>A todo Chile entregas 3-5 días hábiles<\/p>",
+            "text": "<p>A todo Chile en 3 a 5 días hábiles<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -327,8 +327,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cuotas.jpg",
-            "title": "<strong>Compra hasta 6 coutas <\/strong>",
-            "text": "<p>sin interes<\/p>",
+            "title": "<strong>Compra en hasta 6 cuotas <\/strong>",
+            "text": "<p>Sin interés<\/p>",
             "link_label": "",
             "link": ""
           }
