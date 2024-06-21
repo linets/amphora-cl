@@ -34,11 +34,13 @@
         "slide_pCGcgj": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Banner_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.jpg",
+            "heading": "Boots Edition",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/calzados-bootie-taco",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
