@@ -211,7 +211,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dosasas_web.jpg",
-            "title": "Dos Asas",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/collections\/carteras-dos-asas"
@@ -221,7 +221,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/bandoleras_web.jpg",
-            "title": "Bandoleras",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/collections\/carteras-bandoleras"
@@ -231,7 +231,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Mochilas_Web.jpg",
-            "title": "Mochilas",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/collections\/mochila"
