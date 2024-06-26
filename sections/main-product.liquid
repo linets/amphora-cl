@@ -637,6 +637,11 @@
                     <strong>Formato:</strong> <span>{{ product.metafields.global.formato.value }}</span>
                   </div>
                 {% endif %}
+                {% if product.metafields.global.nombre_style != blank %}
+                  <div>
+                    <strong>Nombre producto:</strong> <span>{{ product.metafields.global.nombre_style.value }}</span>
+                  </div>
+                {% endif %}
                 {% if product.metafields.global.alto != blank %}
                   <div>
                     <strong>Alto:</strong> <span>{{ product.metafields.global.alto.value }}</span>
@@ -758,11 +763,6 @@
                     <strong>Textura:</strong> <span>{{ product.metafields.global.textura.value }}</span>
                   </div>
                 {% endif %}           
-                {% if product.metafields.global.nombre_style != blank %}
-                  <div>
-                    <strong>Nombre style:</strong> <span>{{ product.metafields.global.nombre_style.value }}</span>
-                  </div>
-                {% endif %}
                 {% if product.metafields.global.material_plantilla != blank %}
                   <div>
                     <strong>Material plantilla:</strong>
