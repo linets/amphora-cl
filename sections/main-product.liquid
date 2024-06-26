@@ -632,6 +632,11 @@
                 {% render 'icon-caret' %}
               </summary>
               <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
+                {% if product.metafields.global.alto != blank %}
+                  <div>
+                    <strong>Alto:</strong> <span>{{ product.metafields.global.alto.value }}</span>
+                  </div>
+                {% endif %}
                 {% if product.metafields.global.correa_ajustable != blank %}
                   <div>
                     <strong>Correa ajustable:</strong>
@@ -708,11 +713,6 @@
                 {% if product.metafields.global.altura_asa != blank %}
                   <div>
                     <strong>Altura asa:</strong> <span>{{ product.metafields.global.altura_asa.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.alto != blank %}
-                  <div>
-                    <strong>Alto:</strong> <span>{{ product.metafields.global.alto.value }}</span>
                   </div>
                 {% endif %}
                 {% if product.metafields.global.accesorio_adicional != blank %}
