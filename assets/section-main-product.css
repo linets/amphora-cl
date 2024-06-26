@@ -1759,11 +1759,15 @@ div[id^="price-template"] {
 }
 
 .product-form__submit {
-  background: #fff !important;
+  background: #c7af8c !important;
   color: #3c3c3b;
   font-size: 18px;
   width: auto;
 }
+.product-form__submit:after{
+  display: none;
+}
+.product-form__submit span{ font-size: 1.4rem; }
 
 .quantity button[name="minus"] {
   border-right: 1px solid;
