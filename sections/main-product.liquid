@@ -759,12 +759,12 @@
                   <div>
                     <strong>Tipo apertura:</strong> <span>{{ product.metafields.global.tipo_apertura.value }}</span>
                   </div>
-                {% endif %}
-                {% if product.metafields.global.textura != blank %}
+                {% endif %}  
+                {% if product.metafields.global.filtro_material != blank %}
                   <div>
-                    <strong>Textura:</strong> <span>{{ product.metafields.global.textura.value }}</span>
+                    <strong>Material:</strong> <span>{{ product.metafields.global.filtro_material.value }}</span>
                   </div>
-                {% endif %}           
+                {% endif %}
                 {% if product.metafields.global.material_plantilla != blank %}
                   <div>
                     <strong>Material plantilla:</strong>
@@ -788,16 +788,16 @@
                     <span>{{ product.metafields.global.material_capellada.value }}</span>
                   </div>
                 {% endif %}
+                {% if product.metafields.global.textura != blank %}
+                  <div>
+                    <strong>Textura:</strong> <span>{{ product.metafields.global.textura.value }}</span>
+                  </div>
+                {% endif %}
                 {% if product.metafields.global.genero != blank %}
                   <div>
                     <strong>Genero:</strong> <span>{{ product.metafields.global.genero.value }}</span>
                   </div>
                 {% endif %}               
-                {% if product.metafields.global.filtro_material != blank %}
-                  <div>
-                    <strong>Material:</strong> <span>{{ product.metafields.global.filtro_material.value }}</span>
-                  </div>
-                {% endif %}
                 {% if product.metafields.global.filtro_uv != blank %}
                   <div>
                     <strong>Filtro uv:</strong> <span>{{ product.metafields.global.filtro_uv.value }}</span>
