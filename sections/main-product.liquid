@@ -809,6 +809,12 @@
                     <span>{{ product.metafields.global.correa_intercambiable.value }}</span>
                   </div>
                 {% endif %}
+                {% if product.metafields.global.correa_ajustable != blank %}
+                  <div>
+                    <strong>Correa ajustable:</strong>
+                    <span>{{ product.metafields.global.correa_ajustable.value }}</span>
+                  </div>
+                {% endif %}
               </div>
             </details>
           </div>
