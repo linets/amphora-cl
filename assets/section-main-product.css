@@ -1717,15 +1717,20 @@ div[id^="price-template"] {
 }
 
 .price__badge-sale {
-  background: #3C3C3B1D;
+  background: #c7af8c;
   color: #000;
   height: 27px;
   border-radius: 0;
-  font-size: 18px;
+  font-size: 15px;
   padding: 0 10px;
   display: block;
   margin-bottom: 0 !important;
   line-height: 24px;
+  position: relative;
+  display: block !important;
+  width: fit-content;
+  top: initial;
+  padding: 0 5px;
 }
 
 .price__container {
