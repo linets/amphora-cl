@@ -1762,11 +1762,26 @@ div[id^="price-template"] {
   background: #c7af8c !important;
   color: #3c3c3b;
   font-size: 18px;
-  width: auto;
+  width: auto;  
+} 
+.product-form__submit span{
+  opacity: 0.7;
+}
+.product-form__submit:hover span{
+  opacity: 1;
 }
 .product-form__submit:after{
-  display: none;
+  box-shadow: 0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) #c7af8c,
+    0 0 0 var(--buttons-border-width) #c7af8c;
 }
+
+.product-form__submit:not([disabled]):hover::after{
+  --border-offset: 1.3px;
+  border-color: #c7af8c;
+  box-shadow: 0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) #c7af8c,
+    0 0 0 calc(var(--buttons-border-width) + 1px) #c7af8c;
+}
+
 .product-form__submit span{ font-size: 1.4rem; }
 
 .quantity button[name="minus"] {
