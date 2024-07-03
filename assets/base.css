@@ -3640,3 +3640,6 @@ div.card__content{
   align-items: center !important;
   justify-content: center !important;
 }
+#MainContent{
+  overflow: hidden;
+}
