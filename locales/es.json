@@ -544,7 +544,10 @@
         "postcode_label": "Número de casa",
         "postcode_placeholder": "Número de casa",
         "address2_label": "Detalles adicionales",
-        "optional_address2_label": "Detalles adicionales"
+        "optional_address2_label": "Detalles adicionales",
+        "optional_zip_code_label": "Número de casa",
+        "optional_postal_code_label": "Número de casa",
+        "optional_postcode_label": "Número de casa"
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de RUT",
