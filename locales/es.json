@@ -547,7 +547,8 @@
         "optional_address2_label": "Detalles adicionales",
         "optional_zip_code_label": "Número de casa",
         "optional_postal_code_label": "Número de casa",
-        "optional_postcode_label": "Número de casa"
+        "optional_postcode_label": "Número de casa",
+        "civic_number_warning": " "
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de RUT",
