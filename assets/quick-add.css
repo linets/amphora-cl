@@ -229,6 +229,7 @@ quick-add-modal .product-form__buttons {
   display: none;
   background-color: #000;
   min-height: 38px;
+  color: #fff;
 }
 
 .quick-add__submit span {
