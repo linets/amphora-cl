@@ -311,7 +311,7 @@
               endif
             -%}
 
-            {% if card_product.variant.size > 1 and card_product.options_with_values.size > 1 %}
+            {% if card_product.variants.size > 1 and card_product.options_with_values.size > 1 %}
               <modal-opener data-modal="#QuickAdd-{{ card_product.id }}">
                 <button
                   id="{{ product_form_id }}-submit"
