@@ -227,13 +227,13 @@ quick-add-modal .product-form__buttons {
   min-width: 100%;
   box-sizing: border-box;
   display: none;
-  background-color: #000;
+  background-color: #C7AF8C;
   min-height: 38px;
   color: #fff;
 }
 
 .quick-add__submit span {
-  color: #fff;
+  color: #000;
   font-size: 12px;
   text-transform: uppercase;
 }
