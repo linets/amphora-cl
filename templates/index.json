@@ -307,8 +307,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/despacho.jpg",
-            "title": "<strong>Despacho a domicilio<\/strong>",
-            "text": "<p>A todo Chile en 3 a 5 días hábiles<\/p>",
+            "title": "<strong>Envío a domicilio<\/strong>",
+            "text": "<p>A todo Chile en 2 a 5 días hábiles<\/p>",
             "link_label": "",
             "link": "shopify:\/\/pages\/envios-amphora"
           }
