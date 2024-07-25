@@ -558,6 +558,9 @@
         "address_city_contains_html_tags": "La comuna no puede contener etiquetas HTML",
         "address_city_contains_emojis": "La comuna no puede contener emojis",
         "address_city_contains_mathematical_symbols": "La comuna no puede contener símbolos matemáticos"
+      },
+      "shipping": {
+        "title": "Opciones para Retiro en Tienda o Despacho"
       }
     }
   }
