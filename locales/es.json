@@ -553,7 +553,11 @@
       "field_errors": {
         "address_company_blank": "Introduce un número de RUT",
         "address_city_blank": "Introduce una comuna",
-        "address_zip_blank": "Introduce un número de casa"
+        "address_zip_blank": "Introduce un número de casa",
+        "address_city_too_long": "El nombre de la comuna es demasiado largo",
+        "address_city_contains_html_tags": "La comuna no puede contener etiquetas HTML",
+        "address_city_contains_emojis": "La comuna no puede contener emojis",
+        "address_city_contains_mathematical_symbols": "La comuna no puede contener símbolos matemáticos"
       }
     }
   }
