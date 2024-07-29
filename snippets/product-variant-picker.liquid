@@ -47,12 +47,10 @@
           </fieldset>
         {% else %}
           {% for curr_option in product.options_with_values %} 
-            {{ curr_option.name }} === 
             {% unless curr_option.name == 'Color' %} 
               {% assign count_2_options = count_2_options | plus : 1 %}
             {% endunless %}
           {% endfor %}
-          {{ count_2_options }} ---- XXXX
           {% if count_2_options > 0 %}
             <fieldset class="js product-form__input">
               <legend class="form__label">{{ option.name }}</legend>
