@@ -46,6 +46,7 @@
             {% endfor %}
           </fieldset>
         {% else %}
+          {{ option.values.size }} === 
           {% for curr_option in product.options_with_values %} 
             {% unless curr_option.name == 'Color' %} 
               {% assign count_2_options = count_2_options | plus : 1 %}
