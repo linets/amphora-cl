@@ -1769,6 +1769,7 @@ div[id^="price-template"] {
   color: #3c3c3b;
   font-size: 18px;
   width: auto;  
+  text-transform: uppercase;
 } 
 .product-form__submit span{
   opacity: 0.7;
