@@ -1765,13 +1765,16 @@ div[id^="price-template"] {
 }
 
 .product-form__submit {
-  background: #c7af8c !important;
-  color: #3c3c3b;
+  background: #000 !important;
+  color: #fff;
   font-size: 18px;
   width: auto;  
+  text-transform: uppercase;
 } 
+.product-form__submit:after,
+.product-form__submit:before{ display: none; }
 .product-form__submit span{
-  opacity: 0.7;
+  opacity: 1;
 }
 .product-form__submit:hover span{
   opacity: 1;
