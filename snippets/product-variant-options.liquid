@@ -63,6 +63,15 @@
       class="{%- if option.name == 'Color' -%}label-color{%- endif -%}"
     >
       {% if option.name == 'Color' %}
+        {% if image_option %}
+          <a class="link" href="{{ product.url }}">
+            <img
+              class="relations-sku"
+              src="{{ image_option | product_img_url: 'small' }}"
+            >
+          </a>
+        {% endif %}
+
         {% for variant in product.variants %}
           {% if variant.option1 == value %}
             {%- if variant.featured_image.src -%}

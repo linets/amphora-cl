@@ -34,19 +34,19 @@
                 {% if product_similar.metafields.global.style.value == style %}
                   {% unless item_id contains product_similar.handle %}
                     {% assign item_id = item_id | append: ' : ' | append: product_similar.handle %}
-                    <a class="link" href="{{ product_similar.url }}">
-                      <img
-                        class="relations-sku {% if product.handle == product_similar.handle %}active{% endif %}"
-                        src="{{ product_similar.featured_image | product_img_url: 'small' }}"
-                      >
-                    </a>
+                    {% render 'product-variant-options',
+                      product: product,
+                      option: option,
+                      block: block,
+                      image_option: product_similar.featured_image
+                    %}
                   {% endunless %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
           </fieldset>
         {% else %}
-          {% unless option.name == 'Color' %} 
+          {% unless option.name == 'Color' %}
             {% assign count_2_options = option.values.size %}
           {% endunless %}
           {% if count_2_options > 1 %}
