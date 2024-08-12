@@ -64,12 +64,11 @@
     >
       {% if option.name == 'Color' %}
         {% if image_option %}
-          <a class="link" href="{{ product.url }}">
+          <a class="link" href="{{ product_url }}">
             <img
               class="relations-sku"
               src="{{ image_option | product_img_url: 'small' }}"
             >
-            xxxxxxxxxxxx
           </a>
         {% endif %}
 
@@ -77,10 +76,8 @@
           {% if variant.option1 == value %}
             {%- if variant.featured_image.src -%}
               <img src="{{ variant.featured_image.src | img_url: '60x' }}">
-              yyyyyyyyyyyyyyy
             {%- else -%}
               <span style="color: #000;">{{ variant.title }}</span>
-              aaaaaaaaaaaaaaa
             {%- endif -%}
             {% break %}
           {% endif %}
