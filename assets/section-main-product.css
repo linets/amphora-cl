@@ -1,10 +1,8 @@
 .relations-sku {
   display: inline;
   background-color: transparent;
-  border: black;
-  border: var(--variant-pills-border-width) solid rgba(var(--color-foreground), var(--variant-pills-border-opacity));
+  border: border;
   height: 70px;
-  margin-left: 5px;
   text-decoration: none;
 }
 
