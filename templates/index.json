@@ -183,6 +183,15 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "custom_liquid_HKnjm4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "17049857032c5ebfc6": {
       "type": "apps",
       "blocks": {
@@ -419,6 +428,7 @@
     "multicolumn_XFxL88",
     "custom_liquid_C99mmb",
     "slideshow_dhLE8A",
+    "custom_liquid_HKnjm4",
     "17049857032c5ebfc6",
     "17049865837c762c30",
     "170498672219347873",
