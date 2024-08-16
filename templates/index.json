@@ -15,8 +15,8 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sale_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/sale_mobile_shopify.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_web_6d4fed84-bc2d-45f2-9006-7faaa4be9802.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_bf5ec991-fda0-497a-848b-053baaf53594.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -30,30 +30,10 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_pCGcgj": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.jpg",
-            "heading": "Boots Edition",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/calzados-bootie-taco",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3",
-        "slide_pCGcgj"
+        "6565bc0f-3939-488b-909e-7616f7e59da3"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -66,32 +46,94 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "multicolumn_XFxL88": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jcxdzk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mochilas_c563ff07-99d1-4296-855e-bdfbc5582cd3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/mochilas"
+          }
+        },
+        "column_BDAN3Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cartera.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/carteras-dos-asas"
+          }
+        },
+        "column_W3VWQA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bandoleras.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/carteras-bandoleras"
+          }
+        },
+        "column_yQG7Rq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Billeteras_fffc11ac-1482-4092-8ca2-00c2b1b32e95.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/billeteras"
+          }
+        },
+        "column_dD8rqj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Calzado_6a7bae48-5240-4221-8a01-cf6ff95283f1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/calzados"
+          }
+        },
+        "column_xBfkCx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accesorios_bfec97cf-b24f-442b-a602-e2b1a532fb53.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/accesorios"
+          }
+        }
+      },
+      "block_order": [
+        "column_jcxdzk",
+        "column_BDAN3Y",
+        "column_W3VWQA",
+        "column_yQG7Rq",
+        "column_dD8rqj",
+        "column_xBfkCx"
+      ],
       "settings": {
-        "title": "<strong>ADELANTA TUS COMPRAS DE NAVIDAD<\/strong>",
-        "heading_size": "h2",
-        "align_title": "center",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "force_full_width": true,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
         "columns_mobile": "1",
+        "swipe_on_desktop": false,
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -365,7 +407,7 @@
   },
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
-    "featured_collection",
+    "multicolumn_XFxL88",
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
     "17049857032c5ebfc6",
     "17049865837c762c30",
