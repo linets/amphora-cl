@@ -21,7 +21,7 @@
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/sale",
+            "link": "shopify:\/\/collections\/new-in-⭐",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -126,7 +126,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
@@ -137,59 +137,50 @@
         "padding_bottom": 36
       }
     },
-    "fd8003f0-fa91-4c7d-8f99-2bb233dd3615": {
-      "type": "multicolumn",
+    "custom_liquid_C99mmb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_dhLE8A": {
+      "type": "slideshow",
       "blocks": {
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1": {
-          "type": "column",
+        "slide_mVmTCF": {
+          "type": "slide",
           "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Caluga_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga_mobile.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/sale",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1",
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2",
-        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3"
+        "slide_mVmTCF"
       ],
       "settings": {
-        "force_full_width": true,
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_desktop": false,
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "17049857032c5ebfc6": {
@@ -285,6 +276,7 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3"
       ],
+      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
       ],
@@ -307,24 +299,41 @@
         "padding_bottom": 100
       }
     },
-    "241f4691-2553-4f6e-bc31-ad64aa132e6b": {
-      "type": "image-banner",
-      "disabled": true,
-      "custom_css": [
-        ".banner--content-align-mobile-center {margin-top: 50px;}"
+    "slideshow_kCqGjk": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_GHtKGi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caluga_web_1bfd4e4a-67af-4bf9-bb1d-2b2e316a972b.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga_mobile_c9f8a7c0-f494-43f9-b344-ee96385c3c9a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "https:\/\/trinusbags.cl\/",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GHtKGi"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mochila.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "dc802415-49b3-4130-a1bb-b4143927a0d4": {
@@ -408,12 +417,13 @@
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "multicolumn_XFxL88",
-    "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
+    "custom_liquid_C99mmb",
+    "slideshow_dhLE8A",
     "17049857032c5ebfc6",
     "17049865837c762c30",
     "170498672219347873",
     "b18a84ed-5707-48d2-b87d-d05620258745",
-    "241f4691-2553-4f6e-bc31-ad64aa132e6b",
+    "slideshow_kCqGjk",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "406a65c7-d10a-4160-a30c-634059fa1435"
   ]
