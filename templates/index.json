@@ -15,8 +15,8 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_web_6d4fed84-bc2d-45f2-9006-7faaa4be9802.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_bf5ec991-fda0-497a-848b-053baaf53594.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_web_5841d03a-2335-40f7-813a-61496f3dcd50.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_344eaaad-82fa-4941-945a-b1ea99ee93d2.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -172,6 +172,7 @@
       "block_order": [
         "slide_mVmTCF"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -184,6 +185,52 @@
       }
     },
     "custom_liquid_HKnjm4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_kF8J68": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_iwADwU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_nylon_Web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_nylon_mobile.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/nylon",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_iwADwU"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "custom_liquid_ycHPD9": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
@@ -314,8 +361,8 @@
         "slide_GHtKGi": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga_web_1bfd4e4a-67af-4bf9-bb1d-2b2e316a972b.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga_mobile_c9f8a7c0-f494-43f9-b344-ee96385c3c9a.jpg",
+            "image": "shopify:\/\/shop_images\/Caluga_web_shopify.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga_mobile_shopify.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -429,6 +476,8 @@
     "custom_liquid_C99mmb",
     "slideshow_dhLE8A",
     "custom_liquid_HKnjm4",
+    "slideshow_kF8J68",
+    "custom_liquid_ycHPD9",
     "17049857032c5ebfc6",
     "17049865837c762c30",
     "170498672219347873",
