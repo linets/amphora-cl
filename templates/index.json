@@ -152,13 +152,13 @@
         "slide_mVmTCF": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_Accesorios_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_Accesorios_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/nylon",
+            "link": "shopify:\/\/collections\/accesorios",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -172,7 +172,6 @@
       "block_order": [
         "slide_mVmTCF"
       ],
-      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
