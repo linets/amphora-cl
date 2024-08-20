@@ -15,8 +15,8 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_web_5841d03a-2335-40f7-813a-61496f3dcd50.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_344eaaad-82fa-4941-945a-b1ea99ee93d2.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_web_160140c4-fdbf-4c9d-a541-2529dad49a8d.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_6a25cbd8-d995-431a-9a82-663fa4ed2076.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -30,10 +30,30 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_dKk9VL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_Web_949f144c-df49-4a3a-a61e-2937c95d6fb9.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_ad86aa85-a21c-4c98-9549-15af0044681c.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/sale",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3"
+        "6565bc0f-3939-488b-909e-7616f7e59da3",
+        "slide_dKk9VL"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -152,8 +172,8 @@
         "slide_mVmTCF": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_Accesorios_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_Accesorios_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_Accesorios_web_a27ab7fd-a1ec-4380-a5a1-ff79ce7e77d0.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_Accesorios_mobile_eff70ab0-3a79-49e6-adea-a44baff4ea10.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
