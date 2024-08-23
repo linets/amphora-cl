@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -11,7 +20,7 @@
         "retail_rocket_personalization_markups_G6gzwF": {
           "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
-            "rrMarkupCode": "659550139b15095e98a65932",
+            "rrMarkupCode": "65b7bb01d0216e4e60f692fd",
             "rrEmptyMarkupCode": ""
           }
         }
