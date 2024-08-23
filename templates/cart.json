@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "cart-items": {
@@ -38,8 +47,8 @@
         "retail_rocket_personalization_markups_q7kJbt": {
           "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
-            "rrMarkupCode": "65954ff39b15095e98a65930",
-            "rrEmptyMarkupCode": "659550049b15095e98a65931"
+            "rrMarkupCode": "5b7baa9ba661a404729ffd0",
+            "rrEmptyMarkupCode": "65b7bac7d0216e4e60f692eb"
           }
         }
       },
