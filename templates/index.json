@@ -12,6 +12,25 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
+        "slide_dKk9VL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Despacho_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Despacho_mobile.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/mochilas",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
@@ -31,7 +50,7 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_dKk9VL": {
+        "slide_wKQDiF": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner_Web_949f144c-df49-4a3a-a61e-2937c95d6fb9.jpg",
@@ -52,8 +71,9 @@
         }
       },
       "block_order": [
+        "slide_dKk9VL",
         "6565bc0f-3939-488b-909e-7616f7e59da3",
-        "slide_dKk9VL"
+        "slide_wKQDiF"
       ],
       "settings": {
         "layout": "full_bleed",
