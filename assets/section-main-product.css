@@ -1732,6 +1732,12 @@ div[id^="price-template"] {
   padding: 0 5px;
 }
 
+ul.product-grid li .price__badge-sale {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+  
 .price__container {
   margin-bottom: 0 !important;
 }
