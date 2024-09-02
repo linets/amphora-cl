@@ -137,6 +137,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_7WFp9k": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "17049865837c762c30": {
       "type": "apps",
       "blocks": {
@@ -491,6 +500,7 @@
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "multicolumn_XFxL88",
+    "custom_liquid_7WFp9k",
     "17049865837c762c30",
     "slideshow_dhLE8A",
     "slideshow_kF8J68",
