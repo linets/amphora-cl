@@ -49,30 +49,30 @@
     "multicolumn_XFxL88": {
       "type": "multicolumn",
       "blocks": {
-        "column_jcxdzk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_c563ff07-99d1-4296-855e-bdfbc5582cd3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas"
-          }
-        },
         "column_BDAN3Y": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cartera.jpg",
+            "image": "shopify:\/\/shop_images\/CARTERAS_656439c9-6015-45d5-bbcf-a3e82888a061.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/collections\/carteras-dos-asas"
           }
         },
+        "column_jcxdzk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MOCHILAS_829a3587-33c7-46e3-a299-aecd78146a7d.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/mochilas"
+          }
+        },
         "column_W3VWQA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bandoleras.jpg",
+            "image": "shopify:\/\/shop_images\/BANDOLERAS_49a44377-5414-4149-82ec-09a055aa92cb.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -82,7 +82,7 @@
         "column_yQG7Rq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Billeteras_fffc11ac-1482-4092-8ca2-00c2b1b32e95.jpg",
+            "image": "shopify:\/\/shop_images\/BILLETERAS_64895504-445e-479b-b78d-3d8983b352d5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -92,7 +92,7 @@
         "column_dD8rqj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Calzado_6a7bae48-5240-4221-8a01-cf6ff95283f1.jpg",
+            "image": "shopify:\/\/shop_images\/CALZADO_71e6d17d-717e-4af5-b229-6b304b081528.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -102,7 +102,7 @@
         "column_xBfkCx": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Accesorios_bfec97cf-b24f-442b-a602-e2b1a532fb53.jpg",
+            "image": "shopify:\/\/shop_images\/ACCESORIOS_5148c2ab-8314-43b2-b467-002d8dd5f74c.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -111,8 +111,8 @@
         }
       },
       "block_order": [
-        "column_jcxdzk",
         "column_BDAN3Y",
+        "column_jcxdzk",
         "column_W3VWQA",
         "column_yQG7Rq",
         "column_dD8rqj",
