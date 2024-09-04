@@ -401,6 +401,21 @@
         "padding_bottom": 100
       }
     },
+    "dc802415-49b3-4130-a1bb-b4143927a0d4": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "custm_video_url": "https:\/\/www.youtube.com\/embed\/Z43oSNrT3J4?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=Z43oSNrT3J4&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.cl&widgetid=1",
+        "video_url": "",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "slideshow_kCqGjk": {
       "type": "slideshow",
       "blocks": {
@@ -436,22 +451,6 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "dc802415-49b3-4130-a1bb-b4143927a0d4": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/F0NdpNXrIG4?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=F0NdpNXrIG4&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.cl&widgetid=1",
-        "video_url": "",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "406a65c7-d10a-4160-a30c-634059fa1435": {
@@ -528,8 +527,8 @@
     "rich_text_zGFa7M",
     "17049857032c5ebfc6",
     "b18a84ed-5707-48d2-b87d-d05620258745",
-    "slideshow_kCqGjk",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
+    "slideshow_kCqGjk",
     "406a65c7-d10a-4160-a30c-634059fa1435"
   ]
 }
