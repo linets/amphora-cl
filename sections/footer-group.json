@@ -1,7 +1,25 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_E7CCfj": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if customer %}\n  <span id=\"rrApiEmail\" data-email=\"{{ customer.email }}\"><\/span>\n  {{ content_for_header }}\n  <script>\n    window[\"rrApiOnReady\"] = window[\"rrApiOnReady\"] || [];\n    window[\"rrApiOnReady\"].push(function() {\n      var email = document.getElementById('rrApiEmail').getAttribute('data-email');\n      rrApi.setEmail(email);\n    });\n  <\/script>\n{% endif %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -33,6 +51,7 @@
     }
   },
   "order": [
+    "custom_liquid_E7CCfj",
     "footer"
   ]
 }
