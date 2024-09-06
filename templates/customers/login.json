@@ -16,6 +16,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_aqnmga": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17246925303503efd0": {
       "type": "apps",
       "blocks": {
@@ -37,6 +46,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_aqnmga",
     "17246925303503efd0"
   ]
 }
