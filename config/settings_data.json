@@ -160,7 +160,8 @@
           "rrExitIntentBar": "65b7ba35d0216e4e60f692db",
           "ignoredCollections": [
             "all",
-            "sale"
+            "sale",
+            "trinus"
           ],
           "tagstosend": "",
           "metafieldtosend": ""
