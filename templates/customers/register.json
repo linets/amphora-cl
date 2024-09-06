@@ -16,6 +16,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_DiRVnK": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if customer %}\n  <span id=\"rrApiEmail\" data-email=\"{{ customer.email }}\"><\/span>\n  {{ content_for_header }}\n  <script>\n    window[\"rrApiOnReady\"] = window[\"rrApiOnReady\"] || [];\n    window[\"rrApiOnReady\"].push(function() {\n      var email = document.getElementById('rrApiEmail').getAttribute('data-email');\n      rrApi.setEmail(email);\n    });\n  <\/script>\n{% endif %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1724692545b787fcd0": {
       "type": "apps",
       "blocks": {
@@ -37,6 +46,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_DiRVnK",
     "1724692545b787fcd0"
   ]
 }

@@ -19,7 +19,7 @@
     "custom_liquid_aqnmga": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "{% if customer %}\n  <span id=\"rrApiEmail\" data-email=\"{{ customer.email }}\"><\/span>\n  {{ content_for_header }}\n  <script>\n    window[\"rrApiOnReady\"] = window[\"rrApiOnReady\"] || [];\n    window[\"rrApiOnReady\"].push(function() {\n      var email = document.getElementById('rrApiEmail').getAttribute('data-email');\n      rrApi.setEmail(email);\n    });\n  <\/script>\n{% endif %}",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
