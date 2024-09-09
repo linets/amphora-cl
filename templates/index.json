@@ -166,24 +166,6 @@
         "padding_bottom": 12
       }
     },
-    "17049865837c762c30": {
-      "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_E9pptQ": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65b7bc40d0216e4e60f69313",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_E9pptQ"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "slideshow_dhLE8A": {
       "type": "slideshow",
       "blocks": {
@@ -399,19 +381,19 @@
         "padding_bottom": 16
       }
     },
-    "17049857032c5ebfc6": {
+    "17049865837c762c30": {
       "type": "apps",
       "blocks": {
-        "retail_rocket_personalization_markups_9d6n4Y": {
+        "retail_rocket_personalization_markups_E9pptQ": {
           "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
-            "rrMarkupCode": "65b7ba5ad0216e4e60f692dc",
+            "rrMarkupCode": "65b7bc40d0216e4e60f69313",
             "rrEmptyMarkupCode": ""
           }
         }
       },
       "block_order": [
-        "retail_rocket_personalization_markups_9d6n4Y"
+        "retail_rocket_personalization_markups_E9pptQ"
       ],
       "settings": {
         "include_margins": true
@@ -452,6 +434,24 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "17049857032c5ebfc6": {
+      "type": "apps",
+      "blocks": {
+        "retail_rocket_personalization_markups_9d6n4Y": {
+          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+          "settings": {
+            "rrMarkupCode": "65b7ba5ad0216e4e60f692dc",
+            "rrEmptyMarkupCode": ""
+          }
+        }
+      },
+      "block_order": [
+        "retail_rocket_personalization_markups_9d6n4Y"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "406a65c7-d10a-4160-a30c-634059fa1435": {
@@ -521,15 +521,15 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "multicolumn_XFxL88",
     "custom_liquid_7WFp9k",
-    "17049865837c762c30",
     "slideshow_dhLE8A",
     "slideshow_kF8J68",
     "slideshow_PCFAC8",
     "rich_text_zGFa7M",
     "b18a84ed-5707-48d2-b87d-d05620258745",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
-    "17049857032c5ebfc6",
+    "17049865837c762c30",
     "slideshow_kCqGjk",
+    "17049857032c5ebfc6",
     "406a65c7-d10a-4160-a30c-634059fa1435"
   ]
 }
