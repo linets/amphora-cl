@@ -535,6 +535,22 @@
         "padding_top": 16,
         "padding_bottom": 20
       }
+    },
+    "17259717539a419da7": {
+      "type": "apps",
+      "blocks": {
+        "instagram_feed_instafeed_rptr_raptor_instagram_FAHGjk": {
+          "type": "shopify:\/\/apps\/instagram-feed-instafeed-rptr\/blocks\/raptor-instagram\/557ff51a-dc31-4dee-a7df-4610643fa410",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "instagram_feed_instafeed_rptr_raptor_instagram_FAHGjk"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -550,6 +566,7 @@
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "slideshow_kCqGjk",
     "17049857032c5ebfc6",
-    "406a65c7-d10a-4160-a30c-634059fa1435"
+    "406a65c7-d10a-4160-a30c-634059fa1435",
+    "17259717539a419da7"
   ]
 }
