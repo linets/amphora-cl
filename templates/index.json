@@ -12,35 +12,16 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
-        "slide_mzYKBA": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_Web_cc901ae5-a213-4bf2-a4cd-0b30c39eed9c.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_dc4c9c23-1368-48bd-90d4-f436bfc10fef.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/carteras",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.jpg",
+            "image": "shopify://shop_images/Banner_web.jpg",
+            "image_mobile": "shopify://shop_images/Banner_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/new-in",
+            "link": "shopify://collections/new-in",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -52,7 +33,6 @@
         }
       },
       "block_order": [
-        "slide_mzYKBA",
         "6565bc0f-3939-488b-909e-7616f7e59da3"
       ],
       "settings": {
@@ -72,61 +52,61 @@
         "column_BDAN3Y": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CARTERAS_656439c9-6015-45d5-bbcf-a3e82888a061.jpg",
+            "image": "shopify://shop_images/CARTERAS_656439c9-6015-45d5-bbcf-a3e82888a061.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras-dos-asas"
+            "link": "shopify://collections/carteras-dos-asas"
           }
         },
         "column_jcxdzk": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/MOCHILAS_829a3587-33c7-46e3-a299-aecd78146a7d.jpg",
+            "image": "shopify://shop_images/MOCHILAS_829a3587-33c7-46e3-a299-aecd78146a7d.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas"
+            "link": "shopify://collections/mochilas"
           }
         },
         "column_W3VWQA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANDOLERAS_49a44377-5414-4149-82ec-09a055aa92cb.jpg",
+            "image": "shopify://shop_images/BANDOLERAS_49a44377-5414-4149-82ec-09a055aa92cb.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras-bandoleras"
+            "link": "shopify://collections/carteras-bandoleras"
           }
         },
         "column_yQG7Rq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BILLETERAS_64895504-445e-479b-b78d-3d8983b352d5.jpg",
+            "image": "shopify://shop_images/BILLETERAS_64895504-445e-479b-b78d-3d8983b352d5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/billeteras"
+            "link": "shopify://collections/billeteras"
           }
         },
         "column_dD8rqj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CALZADO_71e6d17d-717e-4af5-b229-6b304b081528.jpg",
+            "image": "shopify://shop_images/CALZADO_71e6d17d-717e-4af5-b229-6b304b081528.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/calzados"
+            "link": "shopify://collections/calzados"
           }
         },
         "column_xBfkCx": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ACCESORIOS_5148c2ab-8314-43b2-b467-002d8dd5f74c.jpg",
+            "image": "shopify://shop_images/ACCESORIOS_5148c2ab-8314-43b2-b467-002d8dd5f74c.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/accesorios"
+            "link": "shopify://collections/accesorios"
           }
         }
       },
@@ -172,13 +152,13 @@
         "slide_mVmTCF": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/zapatillas_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/zapatillas_mobile.jpg",
+            "image": "shopify://shop_images/zapatillas_web.jpg",
+            "image_mobile": "shopify://shop_images/zapatillas_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/calzados-zapatillas",
+            "link": "shopify://collections/calzados-zapatillas",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -209,13 +189,13 @@
         "slide_iwADwU": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/carteras_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Carteras_mobile.jpg",
+            "image": "shopify://shop_images/carteras_web.jpg",
+            "image_mobile": "shopify://shop_images/Carteras_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/carteras",
+            "link": "shopify://collections/carteras",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -246,13 +226,13 @@
         "slide_NwF44b": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bisuteria_web_75f787bc-1344-4c4e-9bae-802e9b8339de.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/bisuteria_mobile_2a6aa1b3-a5e4-49bd-b861-2896f168e966.jpg",
+            "image": "shopify://shop_images/Bisuteria_web_75f787bc-1344-4c4e-9bae-802e9b8339de.jpg",
+            "image_mobile": "shopify://shop_images/bisuteria_mobile_2a6aa1b3-a5e4-49bd-b861-2896f168e966.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/accesorios-joyeria",
+            "link": "shopify://collections/accesorios-joyeria",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -307,7 +287,7 @@
       "type": "apps",
       "blocks": {
         "retail_rocket_personalization_markups_E9pptQ": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
             "rrMarkupCode": "65b7bc40d0216e4e60f69313",
             "rrEmptyMarkupCode": ""
@@ -327,31 +307,31 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dosasas_web.jpg",
+            "image": "shopify://shop_images/Dosasas_web.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras-dos-asas"
+            "link": "shopify://collections/carteras-dos-asas"
           }
         },
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bandoleras_web.jpg",
+            "image": "shopify://shop_images/bandoleras_web.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras-bandoleras"
+            "link": "shopify://collections/carteras-bandoleras"
           }
         },
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_Web.jpg",
+            "image": "shopify://shop_images/Mochilas_Web.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas"
+            "link": "shopify://collections/mochilas"
           }
         }
       },
@@ -389,7 +369,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/Z43oSNrT3J4?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=Z43oSNrT3J4&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.cl&widgetid=1",
+        "custm_video_url": "https://www.youtube.com/embed/Z43oSNrT3J4?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=Z43oSNrT3J4&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.cl&widgetid=1",
         "video_url": "",
         "description": "",
         "full_width": true,
@@ -404,13 +384,13 @@
         "slide_GHtKGi": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Trinuscaluga_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Trinuscaluga_mobile.jpg",
+            "image": "shopify://shop_images/Trinuscaluga_web.jpg",
+            "image_mobile": "shopify://shop_images/Trinuscaluga_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "https:\/\/trinusbags.cl\/",
+            "link": "https://trinusbags.cl/",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -439,7 +419,7 @@
       "type": "apps",
       "blocks": {
         "retail_rocket_personalization_markups_9d6n4Y": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
             "rrMarkupCode": "65b7ba5ad0216e4e60f692dc",
             "rrEmptyMarkupCode": ""
@@ -459,29 +439,29 @@
         "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/despacho.jpg",
-            "title": "<strong>Envío a domicilio<\/strong>",
-            "text": "<p>A todo Chile en 2 a 5 días hábiles<\/p>",
+            "image": "shopify://shop_images/despacho.jpg",
+            "title": "<strong>Envío a domicilio</strong>",
+            "text": "<p>A todo Chile en 2 a 5 días hábiles</p>",
             "link_label": "",
-            "link": "shopify:\/\/pages\/envios-amphora"
+            "link": "shopify://pages/envios-amphora"
           }
         },
         "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cambios.jpg",
-            "title": "<strong>Cambios y devoluciones<\/strong>",
-            "text": "<p>¿Dudas sobre tu elección? <\/p><p>Devuelve sin costo<\/p>",
+            "image": "shopify://shop_images/cambios.jpg",
+            "title": "<strong>Cambios y devoluciones</strong>",
+            "text": "<p>¿Dudas sobre tu elección? </p><p>Devuelve sin costo</p>",
             "link_label": "",
-            "link": "shopify:\/\/pages\/politicas-de-cambio-y-devolucion"
+            "link": "shopify://pages/politicas-de-cambio-y-devolucion"
           }
         },
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cuotas.jpg",
-            "title": "<strong>Compra en hasta 6 cuotas <\/strong>",
-            "text": "<p>Sin interés<\/p>",
+            "image": "shopify://shop_images/cuotas.jpg",
+            "title": "<strong>Compra en hasta 6 cuotas </strong>",
+            "text": "<p>Sin interés</p>",
             "link_label": "",
             "link": ""
           }
@@ -525,7 +505,7 @@
       "type": "apps",
       "blocks": {
         "instafeed_app_block_UyQwm6": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
