@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍO a $1.000 en compras desde $29.900 para regiones de Atacama a Los Lagos",
-            "link": "shopify:\/\/pages\/envios-amphora"
+            "text": "ENVÍO GRATIS en compras desde $49.900 para regiones de Atacama a Los Lagos",
+            "link": "shopify://pages/envios-amphora"
           }
         }
       },
