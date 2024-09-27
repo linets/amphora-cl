@@ -8,16 +8,113 @@
 * ------------------------------------------------------------
 */
 {
-  "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 28,
+          "padding_bottom": 28
+        }
+      },
+      "hero_banner_dtNXLQ": {
+        "type": "hero-banner",
+        "settings": {
+          "image_mobile": "shopify://shop_images/Banner_mobile_21944199-7f6b-42db-8342-a787c2e16660.jpg",
+          "image_desktop": "shopify://shop_images/Banner_web_85aaf516-bb90-4acf-9ad9-a83f7546fb16.jpg",
+          "link_image": "",
+          "marginTop": 0,
+          "marginBottom": 0,
+          "marginTopDesktop": 0,
+          "marginBottomDesktop": 0
+        }
+      },
+      "list_of_collections_with_image_MFHgBm": {
+        "type": "list-of-collections-with-image",
+        "blocks": {
+          "collection_F6m7T4": {
+            "type": "collection",
+            "settings": {
+              "featured_col": "carteras",
+              "limit_of_pro": 16,
+              "image_first": false,
+              "picture": "shopify://shop_images/carteras_mobile_88829fb6-daf0-4fe4-8bf8-938379ba5713.jpg",
+              "picture_desktop": "shopify://shop_images/Carteras_web_15e963f4-23a5-4344-a8ea-999f303c4c68.jpg"
+            }
+          },
+          "collection_TnbEwf": {
+            "type": "collection",
+            "settings": {
+              "featured_col": "accesorios",
+              "limit_of_pro": 16,
+              "image_first": false,
+              "picture": "shopify://shop_images/Accesorios_mobile.jpg",
+              "picture_desktop": "shopify://shop_images/Accesorios_Web.jpg"
+            }
+          },
+          "collection_dr9eUw": {
+            "type": "collection",
+            "settings": {
+              "featured_col": "calzados",
+              "limit_of_pro": 16,
+              "image_first": false,
+              "picture": "shopify://shop_images/zapatos_mobile.jpg",
+              "picture_desktop": "shopify://shop_images/zapatos_Web.jpg"
+            }
+          },
+          "collection_RKbiHb": {
+            "type": "collection",
+            "settings": {
+              "featured_col": "mochilas",
+              "limit_of_pro": 16,
+              "image_first": false,
+              "picture": "shopify://shop_images/mochilas_mobile.jpg",
+              "picture_desktop": "shopify://shop_images/mochilas_Web_5f99741b-74db-4219-9040-26a0feabf880.jpg"
+            }
+          },
+          "collection_hic4Ui": {
+            "type": "collection",
+            "settings": {
+              "featured_col": "billeteras",
+              "limit_of_pro": 16,
+              "image_first": false,
+              "picture": "shopify://shop_images/Billeteras_mobile.jpg",
+              "picture_desktop": "shopify://shop_images/Billteras_web.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "collection_F6m7T4",
+          "collection_TnbEwf",
+          "collection_dr9eUw",
+          "collection_RKbiHb",
+          "collection_hic4Ui"
+        ],
+        "settings": {
+          "section_background": "#ffffff",
+          "max_width_container": 1920,
+          "paddingTop": 30,
+          "paddingBottom": 30,
+          "marginTop": 0,
+          "marginBottom": 0,
+          "paddingTopDesktop": 50,
+          "paddingBottomDesktop": 50,
+          "marginTopDesktop": 0,
+          "marginBottomDesktop": 0,
+          "show_vendor": true,
+          "show_secondary_image": true,
+          "show_rating": true,
+          "show_quick_add": true,
+          "horizontal_class": true,
+          "horizontal_quick_add": true,
+          "lazy_load": true,
+          "extend_height": true
+        }
       }
-    }
-  },
-  "order": [
-    "main"
-  ]
-}
+    },
+    "order": [
+      "main",
+      "hero_banner_dtNXLQ",
+      "list_of_collections_with_image_MFHgBm"
+    ]
+  }
